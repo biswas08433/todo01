@@ -1,0 +1,16 @@
+[
+    {
+        "todoIndex": 0,
+        "todoTitle": "Market",
+        "todoDescription": "Rice, Atta, Dal",
+        "todoCreationTime": "19th July, 2024 at 2:15 PM",
+        "todoPriority": "Medium"
+    },
+    {
+        "todoIndex": 1,
+        "todoTitle": "Gym",
+        "todoDescription": "Evening workout",
+        "todoCreationTime": "20th July, 2024 at 8:30 AM",
+        "todoPriority": "Low"
+    }
+]
